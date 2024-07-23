@@ -59,3 +59,9 @@ This project aims to develop a scheduling algorithm for doctors to automate and 
    - Apply adjustments if necessary to ensure fairness and adherence to constraints.
 # Contributing
 If you have suggestions or improvements, feel free to submit a pull request or open an issue on the GitHub repository.
+## Results 
+**For 29 days: Among doctors numbered between 4 and 18, the score for almost all days is 1. Only 5 and 10 doctors receive a score of 1.5 on some days.**
+
+**For 30 days: Among doctors numbered between 4 and 18, the score for most days is 1. However, 11 to 20 doctors receive a score of 1.5 on some days.**
+
+**For 31 days: The score distribution is well-respected with a maximum difference of 0.5 to 1 point. Additionally, 20 doctors have days with a score of 1.5.**
